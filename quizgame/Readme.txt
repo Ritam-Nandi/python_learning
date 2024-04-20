@@ -1,3 +1,7 @@
+Input: Enter how many questions shoudl be asked
+Output: Enter the number of correct answers
+
+
 Output of the Project:
 
 How many questions do you want to answer?

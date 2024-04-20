@@ -1,4 +1,7 @@
+User Input will be "s" "p" "r" or "q"
+
 Output is below:
+
 
 Press r for Rock, s for Scissor, p for Paper. To quit game press q
 Type any of the above and press enter: s
