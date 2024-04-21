@@ -1,5 +1,6 @@
 In plan
 Encrypt the password.txt file so that those are not visible if someone accesses the file directly
+Use Cryptography: https://cryptography.io/en/latest/
 
 Output: 
 
